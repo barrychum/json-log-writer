@@ -18,7 +18,7 @@
 ### Example
 
 ```sh
-./json-log-writer/src/write-log.sh myapp '{"level":"INFO","message":"My message"}'
+./write-log.sh myapp '{"level":"INFO","message":"My message"}'
 ```
 
 ## How It Works
